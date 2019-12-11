@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\student\source\repos\tasks on for\tasks on for\main.cpp(11): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Tasks on for.vcxproj -> C:\Users\Student\Source\Repos\Tasks on for\Debug\Tasks on for.exe
